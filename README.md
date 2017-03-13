@@ -1,0 +1,2 @@
+# simple_regression_analysis_on_fuel_economy_data
+Simple regression analysis using Excel and Mysql
